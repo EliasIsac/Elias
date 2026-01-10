@@ -29,7 +29,7 @@
 </td><td valign="top" width="33%">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasisac)](https://github.com/Eliasisac/github-readme-stats)         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliasIsac)](https://github.com/Eliasisac/github-readme-stats)         
                     
 
 <!--
