@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Tecnical Suport
 - 🌱 I’m currently learning Fullstack web and mobile and computer enginner
-<a  href = "https://github.com/Eliasisac" target = "blank">
 
 ### Frontend  
 <div align="center"> 
