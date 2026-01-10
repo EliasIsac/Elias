@@ -2,10 +2,7 @@
 - 🔭 I’m currently working on Tecnical Suport
 - 🌱 I’m currently learning Fullstack web and mobile and computer enginner
 <a  href = "https://github.com/Eliasisac" target = "blank">
-  
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIsac&hide=contribs,prs&theme=blue_navy)
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliasIsac&show_icons=true&theme=blue_navy )
-<br>
+
 ### Frontend  
 <div align="center"> 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
