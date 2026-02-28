@@ -27,7 +27,10 @@
 </div>
 
 </td><td valign="top" width="33%">
-     
+
+|Cursos | Certificados|
+|-------| -------------|
+|Django| <img src="https://assets.dio.me/Lql6Q7Nf_3vsFUMu1qXuFjeP5MTvFRywLog1jpjdHf0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DWkJLVzNGSi5qcGc" />
                     
 
 <!--
