@@ -28,10 +28,23 @@
 
 </td><td valign="top" width="33%">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EliasIsac/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EliasIsac/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/EliasIsac/output/pacman-contribution-graph.svg">
+</picture>
+
+
 |Cursos | Certificados|
 |-------| -------------|
 |<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" alt = "Imagem Django" >| <img src="https://assets.dio.me/Lql6Q7Nf_3vsFUMu1qXuFjeP5MTvFRywLog1jpjdHf0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DWkJLVzNGSi5qcGc" alt= "Certificado Django" />|
-|<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />|<img src = "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CJ6FSY396UC3/CERTIFICATE_LANDING_PAGE~CJ6FSY396UC3.jpeg">     
+|<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />|<img src = "https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~CJ6FSY396UC3/CERTIFICATE_LANDING_PAGE~CJ6FSY396UC3.jpeg">  
+
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a <a href="https://linkedin.com/in/eliasisacsousafullstackwebemobile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasisacsousafullstackwebemobile/" height="30" width="40" /></a>
+</p>
 
 <!--
 **Eliasisac/Eliasisac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
