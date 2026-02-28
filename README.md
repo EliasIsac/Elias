@@ -30,7 +30,7 @@
 
 |Cursos | Certificados|
 |-------| -------------|
-|<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django"| <img src="https://assets.dio.me/Lql6Q7Nf_3vsFUMu1qXuFjeP5MTvFRywLog1jpjdHf0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DWkJLVzNGSi5qcGc" alt= "Certificado Django" />
+|<img src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" alt = "Imagem Django" >| <img src="https://assets.dio.me/Lql6Q7Nf_3vsFUMu1qXuFjeP5MTvFRywLog1jpjdHf0/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9DWkJLVzNGSi5qcGc" alt= "Certificado Django" />
                     
 
 <!--
