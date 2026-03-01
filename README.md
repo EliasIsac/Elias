@@ -2,6 +2,13 @@
 - 🔭 I’m currently working on Tecnical Suport
 - 🌱 I’m currently learning Fullstack web and mobile and computer enginner
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EliasIsac/EliasIsac/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EliasIsac/EliasIsac/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EliasIsac/EliasIsac/output/pacman-contribution-graph.svg">
+</picture>
+
 <table style="border: 2px solid #30363d; border-radius: 15px; background-color: #0d1117; width: 80%; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
       <td style="padding: 20px; text-align: center; border-right: 1px solid #30363d; width: 30%;">
 <div align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
