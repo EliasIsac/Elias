@@ -2,6 +2,18 @@
 - 🔭 I’m currently working on Tecnical Suport
 - 🌱 I’m currently learning Fullstack web and mobile and computer enginner
 
+<table style="border: 2px solid #30363d; border-radius: 15px; background-color: #0d1117; width: 80%; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
+      <td style="padding: 20px; text-align: center; border-right: 1px solid #30363d; width: 30%;">
+<div align="center" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #0d1117;">
+  <h3 style="color: #c9d1d9;">Estatísticas de EliasIsac</h3>
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="750" />
+</div>
+</table>
+
+
+
+
+
 ### Frontend  
 <div align="center"> 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
@@ -46,7 +58,6 @@
 <a <a href="https://linkedin.com/in/eliasisacsousafullstackwebemobile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasisacsousafullstackwebemobile/" height="30" width="40" /></a>
 </p>
 
-<p>![](github-metrics.svg) </p>
 
 <!--
 **Eliasisac/Eliasisac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
