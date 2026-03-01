@@ -46,6 +46,8 @@
 <a <a href="https://linkedin.com/in/eliasisacsousafullstackwebemobile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliasisacsousafullstackwebemobile/" height="30" width="40" /></a>
 </p>
 
+<p>![](github-metrics.svg) </p>
+
 <!--
 **Eliasisac/Eliasisac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
